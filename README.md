@@ -40,7 +40,7 @@ The **_Viola–Jones_** object detection framework is the first object detection
 - Min [EmguCV 2.2.1](https://sourceforge.net/projects/emgucv/files/emgucv/2.2.1/)
 
 
-### Hot to Run?
+### How to Run?
 
 - Download or clone project
 
